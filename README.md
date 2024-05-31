@@ -1,22 +1,22 @@
 # Hey, I am Varada Gupta.
-Results-driven computer science ungergraduate student in Thapar Institute of Engineering and Technology with a passion for solving complex problems and a strong foundation in algorithms, data structures, and programming.
+Results-driven computer science undergraduate student in Thapar Institute of Engineering and Technology with a passion for solving complex problems and a strong foundation in algorithms, data structures, and programming.
 
 
 ## 🚀 About Me
 
 - 🎓 Computer Engineering graduate on a perpetual journey of learning.
-- 💡 Exploring the intersection of hardware and software - from algorithms todesign.
+- 💡 Exploring the intersection of hardware and software - from algorithms to design.
 - 🌐 Aspiring to contribute to the open-source community and build tech that makes an impact.
 
  ## 💻 Tech Stack
 
 - **Languages:** C, C++, Python, R programming, Dart Language, Data Structures and Algorithms.
 - **Hardware:** Arduino
-- **Tools:** Git, VS Code,Power BI, Flutter 
+- **Tools:** Git, VS Code, Power BI, Flutter 
   
 
 
-- 👀 I’m interested in learning new stuff and becoming a better person everyday.
+- 👀 I’m interested in learning new stuff and becoming a better person every day.
 - 😄 Pronouns: she/her
 
 ##  Connect via
