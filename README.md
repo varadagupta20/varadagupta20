@@ -1,6 +1,7 @@
-![Header](.[/Users/varadagupta/Downloads/github-header-image.png](https://github.com/varadagupta20/banner-image/blob/main/github-header-image.png))
+
 <h1 align="center">Hey, I'm Varada Gupta</h1>
 <h3 align="center">Results-driven computer science undergraduate student at Thapar Institute of Engineering and Technology with a major in Data Science, a passion for solving complex problems, and a strong foundation in algorithms, data structures, and programming.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varadagupta20&label=Profile%20views&color=0e75b6&style=flat" alt="varadagupta20" /> </p>
 <h4>🚀 About Me</h4>
