@@ -1,4 +1,4 @@
-![logo]("https://github.com/varadagupta20/varadagupta20/blob/main/github-header-image.png")
+
 <h1 align="center">Hey, I'm Varada Gupta</h1>
 <h3 align="center">Results-driven computer science undergraduate student at Thapar Institute of Engineering and Technology with a major in Data Science, a passion for solving complex problems, and a strong foundation in algorithms, data structures, and programming.</h3>
 
